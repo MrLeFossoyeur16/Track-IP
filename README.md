@@ -1,2 +1,4 @@
 # Track_IP
-Se script vas vous retourner toute les informations que il à réussie à récupérer sur l'ip 
+This script will return all the information it managed to retrieve on the ip
+
+
